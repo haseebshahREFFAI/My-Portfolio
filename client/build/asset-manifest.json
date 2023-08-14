@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5f896be.css",
+    "main.js": "/static/js/main.99c6b6c7.js",
+    "static/media/project_1.png": "/static/media/project_1.7e3a639437bf631f6829.png",
+    "static/media/Profile.jpeg": "/static/media/Profile.d1accdfe27925146939e.jpeg",
+    "static/media/resume.pdf": "/static/media/resume.93dee1b64db8b3d7da5e.pdf",
+    "static/media/cartoon_design.jpg": "/static/media/cartoon_design.ff2fb14ebf73b1508116.jpg",
+    "static/media/Good Boy.otf": "/static/media/Good Boy.73dd7868ea75c9dca49a.otf",
+    "static/media/video.jpg": "/static/media/video.b029faf76c9322a077ef.jpg",
+    "static/media/us.png": "/static/media/us.5e8867e7404678257361.png",
+    "index.html": "/index.html",
+    "main.d5f896be.css.map": "/static/css/main.d5f896be.css.map",
+    "main.99c6b6c7.js.map": "/static/js/main.99c6b6c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f896be.css",
+    "static/js/main.99c6b6c7.js"
+  ]
+}
